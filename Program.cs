@@ -4,11 +4,10 @@
 /*
 void ShowNums(int num)
 {
-
  if(num >= 1) 
  {
-    Console.Write(num +  " ");
-    ShowNums(num-1); 
+   Console.Write(num +  " ");
+   ShowNums(num-1); 
  }
 }
 Console.Write("Enter number: ");
